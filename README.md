@@ -1,4 +1,4 @@
-# </wassup 👋>
+# wassup 👋
 
 ![](https://komarev.com/ghpvc/?username=eozri&color=blueviolet)
 
