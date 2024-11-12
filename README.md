@@ -4,7 +4,8 @@
 
 
 ## just a brazilian guy doing what he loves
-![Bem-vindo](<iframe src="https://giphy.com/embed/DLno4iRM43kYrwKnKr" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Digitazon-dev-web-developer-digitazon-DLno4iRM43kYrwKnKr">via GIPHY</a></p>)
+<img src="https://media.giphy.com/media/DLno4iRM43kYrwKnKr/giphy.gif" width="480" height="269">
+
 
 
 testing projects and making them available to the public. 
