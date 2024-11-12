@@ -1,7 +1,7 @@
 # hi 👋
 
 #### just a brazilian guy doing what he loves
-<img src="https://media.giphy.com/media/DLno4iRM43kYrwKnKr/giphy.gif" width="480" height="169">
+<img src="https://media.giphy.com/media/DLno4iRM43kYrwKnKr/giphy.gif" width="480" height="129">
 
 
 
