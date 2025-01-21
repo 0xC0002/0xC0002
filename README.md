@@ -19,10 +19,10 @@
 </p>
 
 <p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link="https://mail.google.com/mail/?view=cm&to=brunoantunesrj@gmail.com"" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
+  <a href="https://mail.google.com/mail/?view=cm&to=brunoantunesrj@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/?view=cm&to=brunoantunesrj@gmail.com" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/brunofernandes04/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunofernandes04/" alt="LinkedIn"/></a>
-  <a href="#" title="Instagram">
+  <a href="https://www.instagram.com/bruno.af07/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/bruno.af07/" alt="Instagram"/></a>
 </p>
