@@ -24,5 +24,6 @@
   <a href="https://www.linkedin.com/in/brunofernandes04/" target="_blank" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunofernandes04/" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/bruno.af07/" target="_blank"title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/bruno.af07/" alt="Instagram"/></a>
+  <img src="https://img.shields.io/badge/-Site-707070?style=flat-square&labelColor=707070&logo=github&logoColor=white&link=https://0xc0002.github.io/brunoAbout/" alt="Site"/></a>
+  <a href="https://0xc0002.github.io/brunoAbout//" target="_blank"title="Site">
 </p>
