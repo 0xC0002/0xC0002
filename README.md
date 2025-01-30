@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/?view=cm&to=brunoantunesrj@gmail.com" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/brunofernandes04/" target="_blank" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunofernandes04/" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/bruno.af07/" target="_blank"title="Instagram">
+  <a href="https://0xc0002.github.io/brunoAbout/" target="_blank"title="Instagram">
   <img src="https://img.shields.io/badge/-Site-707070?style=flat-square&labelColor=707070&logo=github&logoColor=white&link=https://0xc0002.github.io/brunoAbout/" alt="Site"/></a>
-  <a href="https://0xc0002.github.io/brunoAbout//" target="_blank"title="Site">
+  <a href="https://0xc0002.github.io/brunoAbout/" target="_blank"title="Site">
 </p>
