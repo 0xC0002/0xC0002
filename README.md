@@ -2,12 +2,12 @@
 
 <p align="left"> 
   <strong>2º Período, estudante de ADS</strong><br></br>
-  Um dos meus hobby é criar soluções práticas. Você encontrará projetos que foram criados com ênfase em resolver problemas reais e pôr em prática os estudos de programação.<br>
+  Um dos hobby é criar soluções práticas. Encontrará projetos que foram criados com ênfase em resolver problemas reais e pôr em prática os estudos de programação.<br>
 
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Python, JS</strong>
+  🦄 Linguagens: <strong>Python, JS, C#</strong>
 </p>
 
 <p align="left">
