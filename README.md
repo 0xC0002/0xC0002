@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  <strong>🇧🇷👨🏻‍💻MAG Seguros <br>2º Período, estudante de ADS</strong><br></br>
+  <strong>🇧🇷👨🏻‍💻 MAG Seguros <br>2º Período, estudante de ADS</strong><br></br>
   Um dos hobby é criar soluções práticas. Encontrará projetos que foram criados com ênfase em resolver problemas reais e pôr em prática os estudos de programação.<br>
 
 </p>
