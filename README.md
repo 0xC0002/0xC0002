@@ -2,7 +2,7 @@
 
 <p align="left"> 
   <strong>🇧🇷👨🏻‍💻 MAG Seguros <br>2º Período, estudante de ADS</strong><br></br>
-  Um dos hobby é criar soluções práticas. Encontrará projetos que foram criados com ênfase em resolver problemas reais e pôr em prática os estudos de programação.<br>
+  Um dos meus hobby é criar soluções práticas. Encontrará projetos que foram criados com ênfase em resolver problemas reais, automação e pôr em prática os estudos de programação.<br>
 
 </p>
 
